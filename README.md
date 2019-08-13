@@ -16,8 +16,14 @@ Sidenote: I recommend creating a shell script that runs your Memeifier for you
 Sidenote note: You can also set a shortcut key for your script so that you can run it
               with just your keyboard.
 
+## Requirements
+
+1. Java
+2. Big Brain
+
 ## History
-I wrote this script a while back for personal usage when a recent interaction inspired me
+
+I wrote this script a while back in 2017 for personal usage when a recent interaction inspired me
 to bring this wonder into the light again.
 
 I hope this will bring you as much joy as it brings me!
